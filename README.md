@@ -87,12 +87,13 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07"
+      alt="GitHub Contribution Activity Graph"
+    />
+  </a>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
