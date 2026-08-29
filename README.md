@@ -30,17 +30,17 @@ Software Developer • Aspiring Data Scientist • Problem Solver
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** who is expanding into **Data Science and Machine Learning**.
+I'm a **Software Developer** currently expanding my skills into **Data Science and Machine Learning**.
 
-I enjoy solving algorithmic problems, understanding the mathematics behind machine learning, and building projects that combine software engineering with data-driven thinking.
+I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine **software engineering, data, and machine learning**.
 
 ### 🚀 Currently
 
-* 🔭 Working on **DSA and Data Science projects**
-* 🌱 Learning **Data Science, Machine Learning, Mathematics for ML, Python and DSA**
-* 🧠 Strengthening my foundations in **Algorithms, Data Structures and Mathematics**
-* 🤝 Open to collaborating on **Open Source, Software Engineering and Data Science projects**
-* 💡 Interested in turning ideas into **practical, scalable software**
+- 🔭 Working on **DSA and Data Science projects**
+- 🌱 Learning **Python, Data Science, Machine Learning, Mathematics for ML and DSA**
+- 🧠 Strengthening my foundations in **Algorithms, Data Structures, Mathematics and Problem Solving**
+- 🤝 Open to collaborating on **Open Source, Software Engineering and Data Science projects**
+- 💡 Interested in building **practical and scalable solutions**
 
 ### 💬 Ask Me About
 
@@ -51,9 +51,7 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,mongodb,mysql&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,mongodb,mysql&perline=10" />
 </p>
 
 ---
@@ -61,8 +59,16 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujalkan07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkan07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sujalkan07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkan07&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -70,7 +76,10 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sujalkan07&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Sujalkan07&hide_border=true&theme=transparent"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -78,7 +87,10 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
@@ -86,7 +98,20 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
@@ -99,42 +124,47 @@ I enjoy solving algorithmic problems, understanding the mathematics behind machi
 
 ### 🧠 DSA — LeetCode
 
-My journey of solving algorithmic problems and strengthening problem-solving skills.
+A growing collection of my **Data Structures & Algorithms** practice and LeetCode solutions.
 
-**Topics include:**
+**Focus Areas**
 
-* Arrays
-* Strings
-* Two Pointers
-* Searching
-* Sorting
-* Linked Lists
-* Trees
-* Graphs
-* Dynamic Programming
+- Arrays & Strings
+- Two Pointers
+- Searching & Sorting
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Problem Solving
 
-<a href="https://github.com/Sujalkan07/DSA---LeetCode">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="https://github.com/Sujalkan07/DSA---LeetCode">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
 
-### 📊 Data Science
+### 📊 Data Science & ML
 
-Projects focused on learning and applying:
+A growing collection of projects as I transition deeper into **Data Science and Machine Learning**.
 
-* Python
-* Data Analysis
-* Statistics
-* Mathematics
-* Machine Learning
-* Visualization
+**Current Focus**
 
-<a href="https://github.com/Sujalkan07">
-<img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
+- Python
+- Data Analysis
+- Statistics
+- Mathematics for ML
+- Machine Learning
+- Data Visualization
+
+<p>
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -154,7 +184,7 @@ Software Development
         └── Software Engineering
                     │
                     ▼
-              Mathematics
+                Mathematics
                     │
         ┌───────────┼───────────┐
         ▼           ▼           ▼
@@ -162,114 +192,7 @@ Software Development
         │           │           │
         └───────────┼───────────┘
                     ▼
-              Machine Learning
+            Machine Learning
                     │
                     ▼
-               Data Science
-```
-
----
-
-## 📚 What I'm Learning
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💻 DSA
-
-Algorithms
-Data Structures
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
-
-### 📐 Mathematics
-
-Linear Algebra
-Probability
-Statistics
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖 Machine Learning
-
-ML Algorithms
-Model Building
-Evaluation
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊 Data Science
-
-Python
-Data Analysis
-Visualization
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujalkan07&theme=github_dark" alt="GitHub Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujalkan07&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujalkan07&theme=github_dark" height="180"/>
-</p>
-
----
-
-## 🎯 Goals
-
-* Build strong foundations in **DSA and Computer Science**
-* Become highly comfortable with **Python and Data Science**
-* Master the **mathematics behind Machine Learning**
-* Build meaningful **end-to-end ML projects**
-* Contribute to **Open Source**
-* Continue improving my **problem-solving skills**
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Sujalkan07">
-<img src="https://img.shields.io/badge/GitHub-Sujalkan07-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sujal-kansal-8a058a303/">
-<img src="https://img.shields.io/badge/LinkedIn-Sujal%20Kansal-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/sujalkan07">
-<img src="https://img.shields.io/badge/LeetCode-sujalkan07-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="mailto:sujalkansal477@gmail.com">
-<img src="https://img.shields.io/badge/Email-sujalkansal477%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⚡ "Learn. Build. Solve. Repeat."
-</h3>
-
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
+              Data Science
