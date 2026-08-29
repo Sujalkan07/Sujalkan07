@@ -80,6 +80,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 
 ## 🔥 Contribution Streak
 
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Sujalkan07&hide_border=true&theme=transparent"
@@ -87,19 +88,9 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
   />
 </p>
 
+
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Sujalkan07">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07"
-      alt="GitHub Contribution Activity Graph"
-    />
-  </a>
-</p>
----
 
 ## 🐍 Contribution Snake
 
