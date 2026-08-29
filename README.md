@@ -56,20 +56,25 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sujalkan07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkan07&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/github/repos/Sujalkan07?style=for-the-badge&label=Public%20Repositories" alt="Public Repositories"/>
+  </a>
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/github/followers/Sujalkan07?style=for-the-badge&label=Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/github/stars/Sujalkan07?style=for-the-badge&label=Stars" alt="Stars"/>
+  </a>
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/github/commit-activity/y/Sujalkan07/DSA---LeetCode?style=for-the-badge&label=Commits" alt="Commit Activity"/>
+  </a>
 </p>
+
+
 
 ---
 
