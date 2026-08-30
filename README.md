@@ -110,5 +110,4 @@ _Current Focus:_
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/trophies.svg" alt="Trophies"/>
 </p>
