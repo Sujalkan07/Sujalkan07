@@ -1,134 +1,109 @@
 <h1 align="center">Hi 👋, I'm Sujal Kansal</h1>
 
-<p align="center">
-  <strong>Problem Solver · Software Developer · Aspiring Data Scientist</strong>
-</p>
-
-<p align="center">
-  <i>Building software. Solving problems. Learning the mathematics behind intelligence.</i>
-</p>
+<h3 align="center">
+Software Developer • Aspiring Data Scientist • Problem Solver
+</h3>
 
 <p align="center">
   <a href="https://github.com/Sujalkan07">
-    <img src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" />
+    <img src="https://img.shields.io/github/followers/Sujalkan07?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Sujalkan07">
+    <img src="https://img.shields.io/github/stars/Sujalkan07?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sujalkan07&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/sujalkan07">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/sujal-kansal-8a058a303/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" />
-  </a>
-  <a href="https://leetcode.com/sujalkan07">
-    <img src="https://img.shields.io/badge/LeetCode-0d0e12?style=flat-square&logo=leetcode&logoColor=FFA116" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sujalkansal477@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Developer** currently expanding my skills into **Data Science and Machine Learning**.
+
+I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine **software engineering, data, and machine learning**.
+
+### 🚀 Currently
+
+- 🔭 Working on **DSA and Data Science projects**
+- 🌱 Learning **Python, Data Science, Machine Learning, Mathematics for ML and DSA**
+- 🧠 Strengthening my foundations in **Algorithms, Data Structures, Mathematics and Problem Solving**
+- 🤝 Open to collaborating on **Open Source, Software Engineering and Data Science projects**
+- 💡 Interested in building **practical and scalable solutions**
+
+### 💬 Ask Me About
+
+`DSA` • `Algorithms` • `Mathematics` • `Python` • `Machine Learning` • `Data Science`
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujalkan07&label=Profile%20Views&style=flat-square&color=8b95f0" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,mongodb,mysql&perline=10" />
 </p>
 
 ---
 
-## `whoami`
-
-I'm a **problem solver and software developer** currently expanding my skills toward **Data Science and Machine Learning**.
-
-My journey is built around three things:
-
-```text
-        PROBLEM SOLVING
-              │
-       ┌──────┴──────┐
-       ↓             ↓
- SOFTWARE          MATHEMATICS
- ENGINEERING           │
-       │               ↓
-       │          DATA SCIENCE
-       │               │
-       └───────→  MACHINE LEARNING
-```
-
-I enjoy understanding **how and why things work**, not just making them work.
-
-Currently, I'm strengthening my foundations in **software development, Data Structures & Algorithms, and the mathematics behind Machine Learning**.
-
----
-
-## `currently`
-
-* 💻 Learning **Full-Stack Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 📊 Moving toward **Data Science & Machine Learning**
-* 📐 Studying **Linear Algebra, Calculus, Probability, Statistics & Optimization**
-* 🐍 Deepening my understanding of **Python**
-* 🔬 Learning the mathematical foundations required for **Machine Learning**
-* 🚀 Working toward becoming a **Software Engineer + Data Scientist / ML Engineer**
-
----
-
-## `problem solving`
-
-I believe becoming a good engineer starts with learning how to **think about problems**.
-
-I'm actively working on:
-
-```text
-Data Structures
-Algorithms
-Time & Space Complexity
-Logical Thinking
-Problem Decomposition
-Mathematical Reasoning
-```
-
-You can find my problem-solving journey on **LeetCode** and GitHub.
-
----
-
-## `learning path`
-
-### 💻 Software Engineering
-
-`C` · `C++` · `Java` · `JavaScript` · `Python`
-
-`HTML` · `CSS` · `React` · `Node.js` · `Express` · `MongoDB`
-
-### 📊 Data Science & ML
-
-`Python` · `NumPy` · `Pandas` · `Data Analysis` · `Machine Learning`
-
-### 📐 Mathematics for ML
-
-`Linear Algebra` · `Calculus` · `Probability` · `Statistics` · `Optimization`
-
-### 🧠 Problem Solving
-
-`DSA` · `Algorithms` · `Complexity Analysis` · `LeetCode`
-
----
-
-## `tech stack`
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,git,github,linux&perline=7" />
+
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://img.shields.io/github/repos/Sujalkan07?style=for-the-badge&label=Public%20Repositories"
+      alt="Public Repositories"
+    />
+  </a>
+
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://img.shields.io/github/followers/Sujalkan07?style=for-the-badge&label=Followers"
+      alt="Followers"
+    />
+  </a>
+
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://img.shields.io/github/stars/Sujalkan07?style=for-the-badge&label=Stars"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://img.shields.io/github/commit-activity/y/Sujalkan07/DSA---LeetCode?style=for-the-badge&label=Commit%20Activity"
+      alt="Commit Activity"
+    />
+  </a>
+
 </p>
 
 ---
 
-## `github activity`
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujalkan07&show_icons=true&hide_border=true&theme=transparent&title_color=8b95f0&text_color=8b95f0&icon_color=8b95f0" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkan07&layout=compact&hide_border=true&theme=transparent&title_color=8b95f0&text_color=8b95f0" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sujalkan07&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Sujalkan07&hide_border=true&theme=transparent"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## `contribution graph`
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -149,47 +124,90 @@ You can find my problem-solving journey on **LeetCode** and GitHub.
 
 ---
 
-## `roadmap`
+## 📌 Featured Projects
 
-```text
-                         WHERE I AM
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Problem Solving │
-                    │       +         │
-                    │ Software Dev    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │  Mathematics    │
-                    │   for ML/DS     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │  Data Science   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Machine Learning│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Software + ML   │
-                    │   Engineer      │
-                    └─────────────────┘
-```
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 DSA — LeetCode
+
+A growing collection of my **Data Structures & Algorithms** practice and LeetCode solutions.
+
+**Focus Areas**
+
+- Arrays & Strings
+- Two Pointers
+- Searching & Sorting
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Problem Solving
+
+<p>
+  <a href="https://github.com/Sujalkan07/DSA---LeetCode">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"
+      alt="View DSA Repository"
+    />
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science & ML
+
+A growing collection of projects as I move deeper into **Data Science and Machine Learning**.
+
+**Current Focus**
+
+- Python
+- Data Analysis
+- Statistics
+- Mathematics for ML
+- Machine Learning
+- Data Visualization
+
+<p>
+  <a href="https://github.com/Sujalkan07">
+    <img
+      src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github"
+      alt="Explore GitHub"
+    />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>Learn deeply. Solve problems. Build things.</i>
-</p>
+## 🧮 My Learning Journey
 
-<p align="center">
-  <sub>Always learning · Always improving</sub>
-</p>
+```text
+                 Software Development
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+         DSA        Problem Solving   Engineering
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                     Mathematics
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+     Statistics      Linear Algebra    Probability
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                 Machine Learning
+                          │
+                          ▼
+                    Data Science
