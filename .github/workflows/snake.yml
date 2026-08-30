@@ -14,22 +14,19 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Sujalkan07
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Copy SVGs into assets/ and commit
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Sujalkan07
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
         run: |
-          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
-          cp dist/github-contribution-grid-snake-dark.svg assets/github-contribution-grid-snake-dark.svg
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake-dark.svg
