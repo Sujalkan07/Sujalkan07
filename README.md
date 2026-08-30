@@ -1,27 +1,8 @@
 <p align="center">
   <img
-    src="./assets/sujal-terminal.svg"
+    src="./assets/sujal-terminal-card.gif"
     width="900"
     alt="Sujal Kansal - Software Developer | Data Science | Machine Learning"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Software%20Developer-111827?style=for-the-badge&logo=code&logoColor=white"
-    alt="Software Developer"
-  />
-  <img
-    src="https://img.shields.io/badge/Data%20Science-1E293B?style=for-the-badge&logo=python&logoColor=white"
-    alt="Data Science"
-  />
-  <img
-    src="https://img.shields.io/badge/Machine%20Learning-312E81?style=for-the-badge&logo=scikitlearn&logoColor=white"
-    alt="Machine Learning"
-  />
-  <img
-    src="https://img.shields.io/badge/Problem%20Solver-0F172A?style=for-the-badge&logo=leetcode&logoColor=orange"
-    alt="Problem Solver"
   />
 </p>
 
