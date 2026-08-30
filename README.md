@@ -101,12 +101,12 @@ I enjoy understanding **how things work**, breaking difficult problems into smal
 
 ---
 
-## 🔥 Contribution Streak
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Sujalkan07&hide_border=true" 
-    alt="Sujal Kansal GitHub Contribution Streak"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkan07&theme=github-compact&hide_border=true"
+    alt="Sujal Kansal Contribution Activity Graph"
   />
 </p>
 
