@@ -56,7 +56,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -81,7 +81,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 <table>
 <tr>
 <td width="160">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" width="140" alt="Data Science & ML"/>
+<img src="assets/project-thumb.svg" width="140" alt="Data Science & ML"/>
 </td>
 <td>
 
@@ -105,11 +105,10 @@ _Current Focus:_
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkan07&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="Top Languages" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sujalkan07&show_icons=true&locale=en&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="GitHub Stats" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujalkan07&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="Top Languages" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Sujalkan07&show_icons=true&locale=en&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="GitHub Stats" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sujalkan07&layout=compact&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="Trophies" height="0" hidden/>
 <img src="https://github-profile-trophy.vercel.app/?username=Sujalkan07&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
