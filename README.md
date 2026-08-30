@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sujal-terminal.svg" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/header.svg?v=2" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
 
 <br/>
 
@@ -72,8 +72,8 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-<img src="assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
 </p>
 
 ## 📌 Featured Projects
@@ -81,7 +81,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 <table>
 <tr>
 <td width="160">
-<img src="assets/project-thumb.svg" width="140" alt="Data Science & ML"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/project-thumb.svg" width="140" alt="Data Science & ML"/>
 </td>
 <td>
 
@@ -110,5 +110,5 @@ _Current Focus:_
 </p>
 
 <p align="center">
-<img src="assets/trophies.svg" alt="Trophies"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/trophies.svg" alt="Trophies"/>
 </p>
