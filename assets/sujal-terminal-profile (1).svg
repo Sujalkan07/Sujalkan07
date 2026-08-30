@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sujal Kansal — Software Developer, Data Science, Machine Learning, Problem Solver</title>
+  <desc id="desc">A detailed neon green cyber terminal banner for a GitHub profile.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#020504"/>
+      <stop offset="0.5" stop-color="#031006"/>
+      <stop offset="1" stop-color="#010302"/>
+    </linearGradient>
+
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06150b" stop-opacity=".94"/>
+      <stop offset=".5" stop-color="#020905" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#06160b" stop-opacity=".94"/>
+    </linearGradient>
+
+    <linearGradient id="greenText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff5a"/>
+      <stop offset=".48" stop-color="#9cffb7"/>
+      <stop offset="1" stop-color="#00ff5a"/>
+    </linearGradient>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="transparent"/>
+      <rect y="0" width="8" height="1" fill="#00ff55" opacity=".08"/>
+    </pattern>
+
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#00ff55" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="ambient">
+      <stop offset="0" stop-color="#00ff55" stop-opacity=".16"/>
+      <stop offset=".5" stop-color="#00ff55" stop-opacity=".045"/>
+      <stop offset="1" stop-color="#00ff55" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="screenClip">
+      <rect x="62" y="92" width="1476" height="716" rx="25"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <ellipse cx="800" cy="430" rx="760" ry="470" fill="url(#ambient)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+
+  <!-- Outer terminal shadow -->
+  <rect x="48" y="76" width="1504" height="752" rx="31" fill="#00ff55" opacity=".10" filter="url(#glow)"/>
+
+  <!-- Terminal body -->
+  <rect x="52" y="80" width="1496" height="744" rx="29" fill="url(#glass)" stroke="#00ff55" stroke-width="2.5" filter="url(#softGlow)"/>
+  <rect x="63" y="91" width="1474" height="722" rx="24" fill="none" stroke="#00ff55" stroke-opacity=".32"/>
+
+  <!-- Header -->
+  <rect x="63" y="91" width="1474" height="84" rx="24" fill="#020604" opacity=".82"/>
+  <path d="M63 175H1537" stroke="#00ff55" stroke-width="2" opacity=".9" filter="url(#softGlow)"/>
+
+  <!-- Window controls -->
+  <circle cx="112" cy="132" r="17" fill="#ff4b4b"/>
+  <circle cx="166" cy="132" r="17" fill="#ffd21f"/>
+  <circle cx="220" cy="132" r="17" fill="#27d957"/>
+  <circle cx="112" cy="132" r="23" fill="none" stroke="#ff4b4b" opacity=".12"/>
+  <circle cx="166" cy="132" r="23" fill="none" stroke="#ffd21f" opacity=".12"/>
+  <circle cx="220" cy="132" r="23" fill="none" stroke="#27d957" opacity=".12"/>
+
+  <text x="1490" y="143" text-anchor="end" fill="#00ff55" font-family="monospace" font-size="27" font-weight="700" letter-spacing="1">SUJAL@GITHUB</text>
+
+  <!-- Content -->
+  <g clip-path="url(#screenClip)">
+    <rect x="63" y="91" width="1474" height="722" fill="url(#scanlines)"/>
+
+    <!-- tiny status marks -->
+    <g fill="#00ff55" opacity=".48" font-family="monospace" font-size="15">
+      <text x="105" y="212">[ SYSTEM ONLINE ]</text>
+      <text x="1492" y="212" text-anchor="end">SECURE SHELL // PROFILE_MODE</text>
+    </g>
+
+    <!-- command -->
+    <text x="105" y="268" fill="#00ff55" font-family="monospace" font-size="28" font-weight="700">sujal@github:~$</text>
+    <text x="382" y="268" fill="#eaffef" font-family="monospace" font-size="28">whoami</text>
+    <circle cx="505" cy="258" r="5" fill="#00ff55" opacity=".9" filter="url(#softGlow)"/>
+
+    <!-- Neon outlined identity -->
+    <g text-anchor="middle" font-family="'Courier New', monospace" font-size="116" font-weight="900" letter-spacing="3" fill="#06140a" stroke="#00ff55" stroke-width="3.2" paint-order="stroke" filter="url(#textGlow)">
+      <text x="800" y="435">SUJAL KANSAL</text>
+    </g>
+    <!-- subtle inner terminal/glitch line -->
+    <text x="800" y="435" text-anchor="middle" font-family="'Courier New', monospace" font-size="116" font-weight="900" letter-spacing="3" fill="none" stroke="#b9ffc9" stroke-opacity=".42" stroke-width="1">SUJAL KANSAL</text>
+    <text x="800" y="437" text-anchor="middle" font-family="'Courier New', monospace" font-size="116" font-weight="900" letter-spacing="3" fill="none" stroke="#00ff55" stroke-opacity=".35" stroke-width="1">SUJAL KANSAL</text>
+
+    <!-- Name plate -->
+    <rect x="95" y="510" width="1410" height="2" fill="#00ff55" opacity=".3"/>
+    <text x="800" y="570" text-anchor="middle" fill="#f1fff5" font-family="monospace" font-size="30" font-weight="600" letter-spacing="1">
+      SOFTWARE DEVELOPER
+      <tspan fill="#00ff55">  |  </tspan>
+      DATA SCIENCE
+      <tspan fill="#00ff55">  |  </tspan>
+      MACHINE LEARNING
+      <tspan fill="#00ff55">  |  </tspan>
+      PROBLEM SOLVER
+    </text>
+
+    <!-- secondary terminal line -->
+    <text x="105" y="690" fill="#00ff55" font-family="monospace" font-size="27" font-weight="700">sujal@github:~$</text>
+    <text x="382" y="690" fill="#eaffef" font-family="monospace" font-size="27">./build_future.sh</text>
+    <rect x="707" y="663" width="18" height="34" rx="2" fill="#00ff55" filter="url(#softGlow)"/>
+
+    <!-- lower status -->
+    <g font-family="monospace" font-size="14" fill="#00ff55" opacity=".55">
+      <text x="105" y="748">MODE: BUILD • LEARN • SOLVE</text>
+      <text x="1490" y="748" text-anchor="end">[ 01 ] [ 10 ] [ 11 ] [ 01 ]</text>
+    </g>
+  </g>
+
+  <!-- Decorative circuit traces -->
+  <g fill="none" stroke="#00ff55" stroke-width="1.5" opacity=".32">
+    <path d="M77 214H92V228H110"/>
+    <path d="M1522 236H1508V250H1490"/>
+    <path d="M77 754H92V740H110"/>
+    <path d="M1522 770H1508V756H1490"/>
+  </g>
+  <g fill="#00ff55" opacity=".55">
+    <circle cx="77" cy="214" r="3"/>
+    <circle cx="1522" cy="236" r="3"/>
+    <circle cx="77" cy="754" r="3"/>
+    <circle cx="1522" cy="770" r="3"/>
+  </g>
+
+  <!-- scan bar -->
+  <rect x="63" y="174" width="1474" height="2" fill="#00ff55" opacity=".18"/>
+  <rect x="63" y="808" width="1474" height="2" fill="#00ff55" opacity=".18"/>
+
+  <!-- outer highlight -->
+  <rect x="52" y="80" width="1496" height="744" rx="29" fill="none" stroke="#00ff55" stroke-width="1" opacity=".75"/>
+</svg>
