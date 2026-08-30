@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/sujal-terminal-header.gif"
+    src="./assets/sujal-terminal-header-github.gif"
     width="100%"
     alt="Sujal Kansal - Software Developer | Data Science | Machine Learning"
   />
@@ -28,37 +28,35 @@
   </a>
 </p>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm a Software Developer currently expanding my skills into Data Science and Machine Learning.
 
-I'm a **Software Developer** currently expanding my skills into **Data Science and Machine Learning**.
+I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine software engineering, data, and machine learning.
 
-I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine **software engineering, data, and machine learning**.
+🚀 Currently
 
-### 🚀 Currently
+🔭 Working on DSA and Data Science projects
 
-- 🔭 Working on **DSA and Data Science projects**
-- 🌱 Learning **Python, Data Science, Machine Learning, Mathematics for ML and DSA**
-- 🧠 Strengthening my foundations in **Algorithms, Data Structures, Mathematics and Problem Solving**
-- 🤝 Open to collaborating on **Open Source, Software Engineering and Data Science projects**
-- 💡 Interested in building **practical and scalable solutions**
+🌱 Learning Python, Data Science, Machine Learning, Mathematics for ML and DSA
 
-### 💬 Ask Me About
+🧠 Strengthening my foundations in Algorithms, Data Structures, Mathematics and Problem Solving
 
-`DSA` • `Algorithms` • `Mathematics` • `Python` • `Machine Learning` • `Data Science`
+🤝 Open to collaborating on Open Source, Software Engineering and Data Science projects
 
----
+💡 Interested in building practical and scalable solutions
 
-## 🛠️ Languages & Tools
+💬 Ask Me About
+
+DSA • Algorithms • Mathematics • Python • Machine Learning • Data Science
+
+🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,js,react,mysql&perline=10" />
 </p>
 
----
-
-## 🔥 Contribution Streak
+🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -67,9 +65,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
   />
 </p>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -88,28 +84,30 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
   </picture>
 </p>
 
----
-
-## 📌 Featured Projects
+📌 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
+📊 Data Science & ML
 
-### 📊 Data Science & ML
+A growing collection of projects as I move deeper into Data Science and Machine Learning.
 
-A growing collection of projects as I move deeper into **Data Science and Machine Learning**.
+Current Focus
 
-**Current Focus**
+Python
 
-- Python
-- Data Analysis
-- Statistics
-- Mathematics for ML
-- Machine Learning
-- Data Visualization
+Data Analysis
+
+Statistics
+
+Mathematics for ML
+
+Machine Learning
+
+Data Visualization
 
 <p>
   <a href="https://github.com/Sujalkan07">
@@ -125,4 +123,6 @@ A growing collection of projects as I move deeper into **Data Science and Machin
 </tr>
 </table>
 
----
+<p align="center">
+  <strong>Learn • Build • Solve • Repeat</strong>
+</p>
