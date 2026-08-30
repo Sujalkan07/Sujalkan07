@@ -1,0 +1,32 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"    # once a week (trophies don't change fast)
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch trophy SVG
+        run: |
+          curl -sSL "https://github-profile-trophy.vercel.app/?username=Sujalkan07&no-frame=true&row=1&column=6" -o assets/trophies.svg
+          # Basic sanity check: fail the step if we didn't actually get an SVG back
+          head -c 4 assets/trophies.svg | grep -q '<' || (echo "Trophy fetch failed, response was not SVG" && exit 1)
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/trophies.svg
+          git diff --staged --quiet || git commit -m "chore: update trophies"
+          git push
