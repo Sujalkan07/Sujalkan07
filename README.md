@@ -133,18 +133,6 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 
 
 
-<p>
-  <a href="https://github.com/Sujalkan07/DSA---LeetCode">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"
-      alt="View DSA Repository"
-    />
-  </a>
-</p>
-
-</td>
-
-<td width="50%">
 
 ### 📊 Data Science & ML
 
