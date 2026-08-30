@@ -19,9 +19,28 @@ jobs:
 
       - name: Fetch trophy SVG
         run: |
-          curl -sSL "https://github-profile-trophy.vercel.app/?username=Sujalkan07&no-frame=true&row=1&column=6" -o assets/trophies.svg
-          # Basic sanity check: fail the step if we didn't actually get an SVG back
-          head -c 4 assets/trophies.svg | grep -q '<' || (echo "Trophy fetch failed, response was not SVG" && exit 1)
+          set -e
+          HTTP_CODE=$(curl -sSL -w "%{http_code}" \
+            "https://github-profile-trophy.vercel.app/?username=Sujalkan07&no-frame=true&row=1&column=6" \
+            -o assets/trophies.svg)
+          echo "HTTP status: $HTTP_CODE"
+          echo "Response size: $(wc -c < assets/trophies.svg) bytes"
+          echo "First 200 chars:"
+          head -c 200 assets/trophies.svg
+          echo ""
+          if [ "$HTTP_CODE" -ne 200 ]; then
+            echo "::error::Trophy service returned HTTP $HTTP_CODE"
+            exit 1
+          fi
+          if ! grep -q "<svg" assets/trophies.svg; then
+            echo "::error::Response does not contain a valid <svg> tag - likely rate limited or errored"
+            exit 1
+          fi
+          FILESIZE=$(wc -c < assets/trophies.svg)
+          if [ "$FILESIZE" -lt 500 ]; then
+            echo "::error::Response is suspiciously small ($FILESIZE bytes) - likely an error/empty SVG"
+            exit 1
+          fi
 
       - name: Commit and push
         run: |
