@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./assets/sujal-terminal-card-fixed.gif"
-    width="900"
+    src="./assets/sujal-terminal-header.gif"
+    width="100%"
     alt="Sujal Kansal - Software Developer | Data Science | Machine Learning"
   />
 </p>
