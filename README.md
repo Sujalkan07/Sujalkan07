@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
+<img src="assets/sujal-terminal.svg" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
 
 <br/>
 
