@@ -110,5 +110,5 @@ _Current Focus:_
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sujalkan07&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Sujalkan07&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
