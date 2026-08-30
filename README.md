@@ -51,43 +51,7 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,mongodb,mysql&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-  <a href="https://github.com/Sujalkan07">
-    <img
-      src="https://img.shields.io/github/repos/Sujalkan07?style=for-the-badge&label=Public%20Repositories"
-      alt="Public Repositories"
-    />
-  </a>
-
-  <a href="https://github.com/Sujalkan07">
-    <img
-      src="https://img.shields.io/github/followers/Sujalkan07?style=for-the-badge&label=Followers"
-      alt="Followers"
-    />
-  </a>
-
-  <a href="https://github.com/Sujalkan07">
-    <img
-      src="https://img.shields.io/github/stars/Sujalkan07?style=for-the-badge&label=Stars"
-      alt="GitHub Stars"
-    />
-  </a>
-
-  <a href="https://github.com/Sujalkan07">
-    <img
-      src="https://img.shields.io/github/commit-activity/y/Sujalkan07/DSA---LeetCode?style=for-the-badge&label=Commit%20Activity"
-      alt="Commit Activity"
-    />
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,git,github,vscode,linux,js,react,mysql&perline=10" />
 </p>
 
 ---
@@ -131,33 +95,6 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 
 <td width="50%">
 
-### 🧠 DSA — LeetCode
-
-A growing collection of my **Data Structures & Algorithms** practice and LeetCode solutions.
-
-**Focus Areas**
-
-- Arrays & Strings
-- Two Pointers
-- Searching & Sorting
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Problem Solving
-
-<p>
-  <a href="https://github.com/Sujalkan07/DSA---LeetCode">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"
-      alt="View DSA Repository"
-    />
-  </a>
-</p>
-
-</td>
-
-<td width="50%">
 
 ### 📊 Data Science & ML
 
@@ -187,27 +124,3 @@ A growing collection of projects as I move deeper into **Data Science and Machin
 </table>
 
 ---
-
-## 🧮 My Learning Journey
-
-```text
-                 Software Development
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-         DSA        Problem Solving   Engineering
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-                     Mathematics
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-     Statistics      Linear Algebra    Probability
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-                 Machine Learning
-                          │
-                          ▼
-                    Data Science
