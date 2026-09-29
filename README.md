@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/neural-banner.svg?v=2" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/bane.svg?v=2" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
 
 <br/>
 
