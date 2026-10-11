@@ -1,113 +1,81 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/bane.svg?v=2" alt="Sujal Kansal — Software Developer | Data Science | Machine Learning | Problem Solver" width="100%"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/banner.svg" alt="Sujal Kansal — Data Science, Machine Learning, Optimization" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sujalkan07&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0a0f0a" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Sujalkan07?label=FOLLOWERS&style=for-the-badge&color=39ff14&labelColor=0a0f0a" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Sujalkan07?affiliations=OWNER&style=for-the-badge&color=39ff14&labelColor=0a0f0a" alt="Stars"/>
-
-<br/><br/>
-
-<a href="https://www.leetcode.com/sujalkan07">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0f0a" alt="LeetCode"/>
-</a>
-<a href="https://linkedin.com/in/sujal-kansal-8a058a303">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f0a" alt="LinkedIn"/>
-</a>
-<a href="mailto:sujalkansal477@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f0a" alt="Email"/>
-</a>
+<a href="https://linkedin.com/in/sujal-kansal-8a058a303"><img src="https://img.shields.io/badge/linkedin-sujal--kansal-21262d?style=flat-square&labelColor=161b22" alt="LinkedIn"/></a>
+<a href="https://www.leetcode.com/sujalkan07"><img src="https://img.shields.io/badge/leetcode-sujalkan07-21262d?style=flat-square&labelColor=161b22" alt="LeetCode"/></a>
+<a href="mailto:sujalkansal477@gmail.com"><img src="https://img.shields.io/badge/email-sujalkansal477%40gmail.com-21262d?style=flat-square&labelColor=161b22" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-## 👤 About Me
+```python
+sujal = {
+    "studying": "B.Tech CSE (Core) @ SRM University AP, class of 2029",
+    "focus":    ["data science", "machine learning", "mathematical optimization"],
+    "building": "AI-assisted railway block planning (SIH 2026)",
+    "learning": ["convex & stochastic optimization", "math for ML", "DSA in C++"],
+    "open_to":  ["internships", "open source", "collaboration"],
+}
+```
 
-I'm a **Software Developer** currently expanding my skills into **Data Science** and **Machine Learning**.
-I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine software engineering, data, and machine learning.
+I like the space where mathematics, algorithms and data meet: optimization, probabilistic modelling, and ML systems that solve concrete problems. I'd rather understand a method well enough to explain it than just run it.
 
-## 🚀 Currently
+<br/>
 
-- 🔭 **Working on** DSA and Data Science projects
-- 🌱 **Learning** Python, Data Science, Machine Learning, Mathematics for ML and DSA
-- 🧪 **Strengthening** my foundations in Algorithms, Data Structures, Mathematics and Problem Solving
-- 🤝 **Open to collaborating** on Open Source, Software Engineering and Data Science projects
-- 💡 **Interested in** building practical and scalable solutions
+## Projects
 
-## 💬 Ask Me About
+### Automatic Block Planning for Indian Railways
+`SIH 2026` `Team MACROSS` `in development`
 
-![DSA](https://img.shields.io/badge/-DSA-0a0f0a?style=flat-square&color=1f3d1f)
-![Algorithms](https://img.shields.io/badge/-Algorithms-0a0f0a?style=flat-square&color=1f3d1f)
-![Mathematics](https://img.shields.io/badge/-Mathematics-0a0f0a?style=flat-square&color=1f3d1f)
-![Python](https://img.shields.io/badge/-Python-0a0f0a?style=flat-square&color=1f3d1f)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0a0f0a?style=flat-square&color=1f3d1f)
-![Data Science](https://img.shields.io/badge/-Data%20Science-0a0f0a?style=flat-square&color=1f3d1f)
+AI-assisted system that plans maintenance blocks to maximize asset availability for train operations. ML prioritizes requests, a constraint solver resolves conflicts, and a human approves the final plan.
 
-## 🛠️ Languages & Tools
+`Python` `scikit-learn` `OR-Tools CP-SAT` `PostgreSQL` `React` `TypeScript` `Docker`
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
+### Machine Maintenance under Stochastic Stress
+`Mathematical Optimization with ML` `coursework`
 
-## 🔥 Contribution Streak
+Models the trade-off between machine revenue and random wear as a stochastic optimization problem, with a penalty for exceeding the wear limit. Includes a formal LaTeX formulation and a numerical solution.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Sujalkan07&theme=github-dark&hide_border=true&background=0A0F0A&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Sujal Kansal's GitHub Streak"/>
-</p>
+`Python` `LaTeX` `stochastic optimization`
 
-## 🐍 Contribution Snake
+### Airport Runway Simulation
+`Data Structures` `coursework`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
-</p>
+Queue-based simulation of aircraft take-offs and landings on a single runway.
 
-## 📌 Featured Projects
+`Queues` `Simulation`
 
-<table>
-<tr>
-<td width="160">
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/project-thumb.svg" width="140" alt="Data Science & ML"/>
-</td>
-<td>
+<!-- TODO: link each project title to its repository once the repos are public -->
 
-**📊 Data Science & ML**
-A growing collection of projects as I move deeper into Data Science and Machine Learning.
+<br/>
 
-_Current Focus:_
-![Python](https://img.shields.io/badge/-Python-1f3d1f?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1f3d1f?style=flat-square)
-![Statistics](https://img.shields.io/badge/-Statistics-1f3d1f?style=flat-square)
-![Mathematics for ML](https://img.shields.io/badge/-Mathematics%20for%20ML-1f3d1f?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1f3d1f?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-1f3d1f?style=flat-square)
+## Stack
 
-[![Explore GitHub](https://img.shields.io/badge/Explore%20GitHub-→-39ff14?style=for-the-badge&labelColor=0a0f0a)](https://github.com/Sujalkan07)
+| | |
+| :-- | :-- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-21262d?style=flat-square) ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square) ![Java](https://img.shields.io/badge/Java-21262d?style=flat-square) ![C](https://img.shields.io/badge/C-21262d?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square) |
+| **Data & ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-21262d?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-21262d?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-21262d?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-21262d?style=flat-square) |
+| **Optimization** | ![OR-Tools](https://img.shields.io/badge/OR--Tools%20CP--SAT-21262d?style=flat-square) ![Convex](https://img.shields.io/badge/Convex-21262d?style=flat-square) ![Stochastic](https://img.shields.io/badge/Stochastic-21262d?style=flat-square) |
+| **Web** | ![React](https://img.shields.io/badge/React-21262d?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-21262d?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-21262d?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-21262d?style=flat-square) ![LaTeX](https://img.shields.io/badge/LaTeX-21262d?style=flat-square) |
 
-</td>
-</tr>
-</table>
+<br/>
 
-## 📊 GitHub Stats
+## Education
 
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujalkan07&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="Top Languages" height="180"/>
-<img src="https://github-stats-extended.vercel.app/api?username=Sujalkan07&show_icons=true&locale=en&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="GitHub Stats" height="180"/>
-</p>
+**B.Tech, Computer Science and Engineering (Core)** · SRM University AP · 2025 – 2029
+CGPA 9.51 · Dean's List · Class Representative, CSE Core Section B
 
-<p align="center">
-</p>
+`Data Structures & Algorithms` `Design & Analysis of Algorithms` `Discrete Mathematics` `Mathematical Optimization with ML` `Mathematics for ML & DS`
+
+<br/>
+
+<div align="center">
+
+<sub>open to internships and collaboration · <a href="mailto:sujalkansal477@gmail.com">say hi</a></sub>
+
+</div>
