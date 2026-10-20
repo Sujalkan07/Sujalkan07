@@ -27,6 +27,7 @@
 ## 👤 About Me
 
 I'm a **Software Developer** currently expanding my skills into **Data Science** and **Machine Learning**.
+
 I enjoy solving algorithmic problems, strengthening my mathematical foundations, and building practical projects that combine software engineering, data, and machine learning.
 
 ## 🚀 Currently
@@ -49,18 +50,18 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </p>
 
 ## 🔥 Contribution Streak
@@ -72,23 +73,25 @@ I enjoy solving algorithmic problems, strengthening my mathematical foundations,
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation for dark mode"/>
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation for light mode"/>
 </p>
 
 ## 📌 Featured Projects
 
 <table>
 <tr>
-<td width="160">
-<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/project-thumb.svg" width="140" alt="Data Science & ML"/>
+<td width="160" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/Sujalkan07/Sujalkan07/main/assets/project-thumb.svg" width="140" alt="Data Science and Machine Learning project thumbnail"/>
 </td>
-<td>
+<td valign="top">
 
-**📊 Data Science & ML**
-A growing collection of projects as I move deeper into Data Science and Machine Learning.
+**📊 Data Science & Machine Learning**
 
-_Current Focus:_
+A growing collection of projects focused on data analysis, statistical thinking, visualization, and applied machine learning.
+
+**Current Focus**
+
 ![Python](https://img.shields.io/badge/-Python-1f3d1f?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1f3d1f?style=flat-square)
 ![Statistics](https://img.shields.io/badge/-Statistics-1f3d1f?style=flat-square)
@@ -96,7 +99,7 @@ _Current Focus:_
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1f3d1f?style=flat-square)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-1f3d1f?style=flat-square)
 
-[![Explore GitHub](https://img.shields.io/badge/Explore%20GitHub-→-39ff14?style=for-the-badge&labelColor=0a0f0a)](https://github.com/Sujalkan07)
+[![Explore Repositories](https://img.shields.io/badge/Explore%20Repositories-→-39ff14?style=for-the-badge&labelColor=0a0f0a)](https://github.com/Sujalkan07?tab=repositories)
 
 </td>
 </tr>
@@ -107,7 +110,4 @@ _Current Focus:_
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sujalkan07&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="Top Languages" height="180"/>
 <img src="https://github-stats-extended.vercel.app/api?username=Sujalkan07&show_icons=true&locale=en&theme=dark&bg_color=0A0F0A&title_color=39FF14&text_color=8BE28B&border_color=1F3D1F" alt="GitHub Stats" height="180"/>
-</p>
-
-<p align="center">
 </p>
