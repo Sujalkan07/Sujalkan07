@@ -10,9 +10,6 @@
 
 <br/><br/>
 
-<a href="https://www.leetcode.com/sujalkan07">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0f0a" alt="LeetCode"/>
-</a>
 <a href="https://linkedin.com/in/sujal-kansal-8a058a303">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f0a" alt="LinkedIn"/>
 </a>
