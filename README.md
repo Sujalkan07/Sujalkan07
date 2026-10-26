@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sujalkan07&label=Profile%20Views&color=39ff14&style=for-the-badge&labelColor=0a0f0a" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Sujalkan07&label=Profile%20Views&color=39ff14&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Sujalkan07?label=FOLLOWERS&style=for-the-badge&color=39ff14&labelColor=0a0f0a" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/Sujalkan07?affiliations=OWNER&style=for-the-badge&color=39ff14&labelColor=0a0f0a" alt="Stars"/>
 
